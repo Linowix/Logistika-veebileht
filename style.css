@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+html, body {
+    margin: 0;/* eemaldab vaikimisi välisvahe (ümber elemendi) */
+    padding: 0;/* eemaldab vaikimisi sisemise vahe (elemendi sees) */
+    font-family: sans-serif;/* määrab kirjatüübi - lihtne, ilma serifideta */
+    color: #000000;/* teksti värv */
+    background: #ffffff;/* lehe tausta värv */
+    line-height: 1.6;/* rea kõrgus: 1,6x fondi suurusest (parem loetavus) */
+}
